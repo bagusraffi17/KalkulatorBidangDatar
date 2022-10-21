@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kalkulator Bidang Datar</string>
+    <string name="Judul">Kalkulator Bidang Datar</string>
+    <string name="psg">Kalkulator Persegi</string>
+    <string name="btnpsg">Persegi</string>
+    <string name="lngkrn">Kalkulator Lingkaran</string>
+    <string name="btnlngkrn">Lingkaran</string>
+    <string name="sgtg">Kalkulator Segitiga</string>
+    <string name="btnsgtg">Segitiga</string>
+</resources>
